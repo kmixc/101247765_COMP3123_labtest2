@@ -1,4 +1,6 @@
 ## Lab Test 2
+Oliver Kmiec
+101247765
 
 ## REACT APP
 ![image](https://user-images.githubusercontent.com/33011188/144142585-415b732b-cf0e-47b4-8c88-bd656d476410.png)
