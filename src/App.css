@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+.App {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.round {
+  border-radius: 70px;
+}
+
+.round-info {
+  border-radius: 20px;
+  font-weight: bold;
+  color: "#000";
+}
